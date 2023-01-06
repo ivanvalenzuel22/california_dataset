@@ -1,0 +1,21 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "US-CA",
+        "wikidata": "Q99",
+        "place_name": "California, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.699375,
+          37.074359
+        ],
+        "type": "Point"
+      },
+      "id": "region.419052"
+    }
+  ],
+  "type": "FeatureCollection"
+}
